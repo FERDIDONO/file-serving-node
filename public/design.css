@@ -1,0 +1,22 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background-image: linear-gradient(lightgreen, yellow);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 60vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-family: monospace;
+  color: darkslategray;
+  font-size: 5rem; 
+  font-weight: bold;
+  text-align: center;
+}
